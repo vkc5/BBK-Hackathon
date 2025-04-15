@@ -24,6 +24,8 @@ T.A.P provides a multi-factor, password-less authentication mechanism using:
 
 -This hybrid approach ensures high security without compromising the user experience.
 
+-Environmental Analysis (User can sign in by taking a photo of a unique object).
+
 
 🚀 How It Works
 -User initiates login on the mobile application.
@@ -48,8 +50,8 @@ T.A.P provides a multi-factor, password-less authentication mechanism using:
 
 -Enhances trust for financial and enterprise apps.
 
-
 👩‍💻 Team
+
 
 -Hawraa Alsaad
 

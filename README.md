@@ -8,54 +8,54 @@ T.A.P is a secure, password-less authentication solution designed for modern mob
 🔐 Problem
 Traditional password-based systems are:
 
-Prone to phishing, credential stuffing, and brute-force attacks.
+-Prone to phishing, credential stuffing, and brute-force attacks.
 
-Inconvenient and frustrating for users to manage.
+-Inconvenient and frustrating for users to manage.
 
-Often a trade-off between security and ease of use.
+-Often a trade-off between security and ease of use.
 
 
 ✅ Solution
 T.A.P provides a multi-factor, password-less authentication mechanism using:
 
-Biometric Authentication (Fingerprint / Face ID)
+-Biometric Authentication (Fingerprint / Face ID)
 
-NFC Hardware Token (NTAG216 card)
+-NFC Hardware Token (NTAG216 card)
 
-This hybrid approach ensures high security without compromising the user experience.
+-This hybrid approach ensures high security without compromising the user experience.
 
 
 🚀 How It Works
-User initiates login on the mobile application.
+-User initiates login on the mobile application.
 
-Biometric authentication is attempted.
+-Biometric authentication is attempted.
 
-If unavailable or fails, the user is prompted to tap their NFC card.
+-If unavailable or fails, the user is prompted to tap their NFC card.
 
-A secure verification message is sent to the app.
+-A secure verification message is sent to the app.
 
-Upon successful validation, access is granted.
+-Upon successful validation, access is granted.
 
 
 💡 Key Benefits
-Stronger security for user authentication.
+-Stronger security for user authentication.
 
-Seamless and intuitive login flow.
+-Seamless and intuitive login flow.
 
-Works even when biometrics are unavailable.
+-Works even when biometrics are unavailable.
 
-Compliant with security best practices.
+-Compliant with security best practices.
 
-Enhances trust for financial and enterprise apps.
+-Enhances trust for financial and enterprise apps.
 
 
 👩‍💻 Team
-Hawraa Alsaad
+-Hawraa Alsaad
 
-Ayah Meftah
+-Ayah Meftah
 
-Fatema Moh’d
+-Fatema Moh’d
 
-Moh’d Alhalal
+-Moh’d Alhalal
 
-Fida Hussain
+-Fida Hussain

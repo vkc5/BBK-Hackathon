@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070769435879",
+    "project_id": "bbk-bank-iabpdh",
+    "storage_bucket": "bbk-bank-iabpdh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070769435879:android:6d5ea13405c0bb695fde42",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFpIi8xmnpDPHL4HvM6NkDgib_S-RbOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
